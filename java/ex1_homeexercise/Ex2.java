@@ -1,4 +1,4 @@
-package homeexercise;
+package ex1_homeexercise;
 
 public class Ex2 {
     public static void  main(String []args){

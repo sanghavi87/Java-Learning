@@ -1,4 +1,4 @@
-package firstpack;
+package ex2_firstpack;
 
 public class Class1 {
 
@@ -7,7 +7,7 @@ public class Class1 {
         String surname= "sanghavi";
 
        // System.out.print(name);
-        System.out.print( name+" "+surname);
+        System.out.println( name+" "+surname);
         System.out.print( name+" "+surname);
         System.out.print( name+" "+surname);
         System.out.print( name+" "+surname);

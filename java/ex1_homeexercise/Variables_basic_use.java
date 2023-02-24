@@ -1,4 +1,4 @@
-package homeexercise;
+package ex1_homeexercise;
 
 public class Variables_basic_use {
     public static void  main (String []args){

@@ -1,4 +1,4 @@
-package variables;
+package ex3_variables;
 
 public class InstanceVariable {
 

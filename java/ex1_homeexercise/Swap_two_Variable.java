@@ -1,4 +1,4 @@
-package homeexercise; //swap two variables
+package ex1_homeexercise; //swap two variables
 
 public class Swap_two_Variable {
     public static void  main (String []args){

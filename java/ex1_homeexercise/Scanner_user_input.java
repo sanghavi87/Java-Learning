@@ -1,4 +1,4 @@
-package homeexercise;
+package ex1_homeexercise;
 
 import java.util.Scanner;
 public class Scanner_user_input {
