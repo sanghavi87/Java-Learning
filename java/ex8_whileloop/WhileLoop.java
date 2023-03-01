@@ -2,10 +2,21 @@ package ex8_whileloop;
 
 public class WhileLoop {
     public static void main(String[] args) {
-        int i=10;
-        while (i>=1){
+
+        //print 1 to 10 numbers
+
+       /* int i=1;
+        while (i<=10){
             System.out.println("i="+i);
-            i--;
+            i++;
+        }*/
+
+        //print 10 even number:-
+        int a=1;
+        while(a<=20)
+        {
+            System.out.println(a);
+            a+=2;
         }
 
     }

@@ -3,7 +3,11 @@ package ex7_forloop;
 public class ForLoop {
 
     public static void main(String[] args) {
-        for (int i=0;i<=5;i--){
+
+
+        //print o to 5 number:
+
+        for (int i=0;i<=5;i++){
             System.out.println("i:" +i);
         }
     }
