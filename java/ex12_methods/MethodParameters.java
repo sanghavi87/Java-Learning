@@ -11,7 +11,8 @@ public class MethodParameters {
 //    }
 
 //Nonstatic parameter method
-    void myMethod1(String name, int year ){
+    void myMethod1(String name, int year )
+    {
         System.out.println(name+ " " +year);
 
     }

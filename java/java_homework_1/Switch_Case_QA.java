@@ -6,7 +6,7 @@ public class Switch_Case_QA {
  //QA-1. Write a program to print a specific month in the calendar
         //for a given value.
 
-  int Month=18;                // to get the different result - change the number here
+  int Month=8;                // to get the different result - change the number here
 
   switch (Month)
   {
@@ -26,13 +26,6 @@ public class Switch_Case_QA {
 
 
   }
-
-
-
-
-
-
-
 
 
 
