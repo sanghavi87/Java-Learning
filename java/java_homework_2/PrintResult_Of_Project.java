@@ -1,6 +1,7 @@
 package java_homework_2;
 
 //we are calling here all our child classes into main method to print the data by using the concept of Inheritance and Polymorphism
+//
 
 public class PrintResult_Of_Project {
     public static void main(String[] args)
