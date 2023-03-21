@@ -1,5 +1,5 @@
 package ex1_homeexercise;
-
+//arrey concept
 public class ArreyConcept {
 
 
